@@ -1,4 +1,4 @@
-#Google Python Automation Course
+# Google Python Automation Course
 
-##Learning Python with bash
-##And Learning bash language
+## Learning Python with bash
+## And Learning bash language
