@@ -1,2 +1,3 @@
-Mehmet Izol
-Tue Mar 21 17:42:29 UTC 2023
+date=$(date)
+echo "Azamat Salamatov"
+echo $date
